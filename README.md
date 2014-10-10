@@ -3,4 +3,4 @@ hello-world
 
 just another repository
 
-second time
+Hi, guys. My name is Jack. Please join in me to welcome me.
